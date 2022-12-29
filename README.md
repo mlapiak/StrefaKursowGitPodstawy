@@ -1,1 +1,3 @@
 # StrefaKursowGitPodstawy
+---
+Git podstawy
